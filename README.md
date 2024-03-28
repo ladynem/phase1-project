@@ -25,13 +25,13 @@ Future releases will include a "favorite" feature that allows users to save acti
 ## CONTRIBUTING
 This project is not open to contributions.
 
-## AUTHORS AND ACKNOWLEDGMENT
-- Developed by [Madelyn Johnson](https://github.com/ladynem)
+## ACKNOWLEDGMENTS
 - [Bored API](https://www.boredapi.com)
 - [MakeAReadMe](https://www.makeareadme.com)
 
 ## LICENSE
 Draft
 
-### DEDICATION
-To CWJ with love
+### AUTHORS & DEDICATION
+Developed by [Madelyn Johnson](https://github.com/ladynem)
+Dedicated to CWJ with love, always.
