@@ -8,7 +8,7 @@ Draft mode: March 2024
 Bust your boredom by generating a list of activities with a simple click of a button. Choose from a list of 5 activity types or take a chance to view random activities and never be bored again.
 
 ## VISUALS
-Draft: Enter GIF here
+Draft: GIF coming soon
 
 ## INSTALLATION
 Draft
@@ -20,15 +20,15 @@ Draft
 Draft
 
 ## ROADMAP
-Draft
+Future releases will include a "favorite" feature that allows users to save activities for future use. 
 
 ## CONTRIBUTING
-Draft
+This project is not open to contributions.
 
 ## AUTHORS AND ACKNOWLEDGMENT
 - Developed by [Madelyn Johnson](https://github.com/ladynem)
-
 - [Bored API](https://www.boredapi.com)
+- [MakeAReadMe](https://www.makeareadme.com)
 
 ## LICENSE
 Draft
