@@ -28,6 +28,7 @@ This project is not open to contributions.
 ## ACKNOWLEDGMENTS
 - [Bored API](https://www.boredapi.com)
 - [MakeAReadMe](https://www.makeareadme.com)
+- [Bored GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpsYmkzdm13ZnBiNm96YzBvMGI0MDZvdzBybWVodTFmYnJrdW1pbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UUmVHVga4uEwWFk0AR/giphy.gif)
 
 ## LICENSE
 Draft
