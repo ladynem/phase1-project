@@ -1,11 +1,11 @@
-# BOREDOM BE BUSTED!
+# BOREDOM BEGONE!
 Phase 1 Project for Flatiron School
 
 ## PROJECT STATUS
 Draft mode: March 2024
 
 ## DESCRIPTION
-Bust your boredom by generating a list of activities with the click of a button. Choose from a list of 5 activity types or take a chance to view random activities and never be bored again.
+Bust boredom by generating a list of activities with the click of a button. Be surprised, or choose from a list of activity types. Bookmark this page to never be bored again!
 
 ## VISUALS
 Draft: GIF coming soon
