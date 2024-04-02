@@ -1,0 +1,612 @@
+{
+    "activities": [
+   {
+      "id": 1,
+      "Activity": "Read a book to relax and unwind.",
+      "Type": "relaxation",
+      "Participants": 1
+   },
+   {
+      "id": 2,
+      "Activity": "Attend a cooking class to learn new recipes.",
+      "Type": "education",
+      "Participants": 2
+   },
+   {
+      "id": 3,
+      "Activity": "Organize a book club meeting to discuss your favorite books.",
+      "Type": "social",
+      "Participants": 5
+   },
+   {
+      "id": 4,
+      "Activity": "Build a birdhouse in your backyard.",
+      "Type": "diy",
+      "Participants": 1
+   },
+   {
+      "id": 5,
+      "Activity": "Volunteer at a local animal shelter.",
+      "Type": "charity",
+      "Participants": 2
+    },
+    {
+      "id": 6,
+      "Activity": "Meditate in a quiet room to clear your mind.",
+      "Type": "relaxation",
+      "Participants": 1
+    },
+    {
+      "id": 7,
+      "Activity": "Take a yoga class to improve your flexibility.",
+      "Type": "education",
+      "Participants": 2
+    },
+    {
+      "id": 8,
+      "Activity": "Host a movie night with friends to watch your favorite films.",
+      "Type": "social",
+      "Participants": 5
+    },
+    {
+      "id": 9,
+      "Activity": "Make homemade candles to decorate your home.",
+      "Type": "diy",
+      "Participants": 1
+    },
+    {
+      "id": 10,
+      "Activity": "Participate in a charity run to support a local cause.",
+      "Type": "charity",
+      "Participants": 2
+    },
+    {
+      "id": 11,
+      "Activity": "Practice mindfulness meditation to enhance focus.",
+      "Type": "relaxation",
+      "Participants": 1
+    },
+    {
+      "id": 12,
+      "Activity": "Join an online course to learn a new skill.",
+      "Type": "education",
+      "Participants": 1
+    },
+    {
+      "id": 13,
+      "Activity": "Organize a virtual book club meeting to discuss your favorite books.",
+      "Type": "social",
+      "Participants": 5
+    },
+    {
+      "id": 14,
+      "Activity": "Build a miniature garden in your backyard.",
+      "Type": "diy",
+      "Participants": 1
+    },
+    {
+      "id": 15,
+      "Activity": "Donate to a local food bank to help those in need.",
+      "Type": "charity",
+      "Participants": 2
+    },
+     {
+        "id": 16,
+        "Activity": "Engage in a guided meditation session to reduce stress.",
+        "Type": "relaxation",
+        "Participants": 1
+     },
+     {
+        "id": 17,
+        "Activity": "Enroll in an online course on digital art.",
+        "Type": "education",
+        "Participants": 1
+     },
+     {
+        "id": 18,
+        "Activity": "Organize a virtual book club meeting to discuss your favorite books.",
+        "Type": "social",
+        "Participants": 5
+     },
+     {
+        "id": 19,
+        "Activity": "Build a miniature garden in your backyard.",
+        "Type": "diy",
+        "Participants": 1
+     },
+     {
+        "id": 20,
+        "Activity": "Donate to a local food bank to help those in need.",
+        "Type": "charity",
+        "Participants": 2
+     },
+     {
+        "id": 21,
+        "Activity": "Engage in a guided meditation session to reduce stress.",
+        "Type": "relaxation",
+        "Participants": 1
+     },
+     {
+        "id": 22,
+        "Activity": "Enroll in an online course on digital art.",
+        "Type": "education",
+        "Participants": 1
+     },
+     {
+        "id": 23,
+        "Activity": "Organize a virtual book club meeting to discuss your favorite books.",
+        "Type": "social",
+        "Participants": 5
+     },
+     {
+        "id": 24,
+        "Activity": "Build a miniature garden in your backyard.",
+        "Type": "diy",
+        "Participants": 1
+     },
+     {
+        "id": 25,
+        "Activity": "Donate to a local food bank to help those in need.",
+        "Type": "charity",
+        "Participants": 2
+     },
+     {
+        "id": 26,
+        "Activity": "Organize a virtual community gardening project.",
+        "Type": "social",
+        "Participants": 10
+     },
+     {
+        "id": 27,
+        "Activity": "Engage in a guided meditation session to reduce stress.",
+        "Type": "relaxation",
+        "Participants": 1
+     },
+     {
+        "id": 28,
+        "Activity": "Enroll in an online course on digital art.",
+        "Type": "education",
+        "Participants": 1
+     },
+     {
+        "id": 29,
+        "Activity": "Organize a virtual book club meeting to discuss your favorite books.",
+        "Type": "social",
+        "Participants": 5
+     },
+     {
+        "id": 30,
+        "Activity": "Build a miniature garden in your backyard.",
+        "Type": "diy",
+        "Participants": 1
+     },
+     {
+        "id": 31,
+        "Activity": "Donate to a local food bank to help those in need.",
+        "Type": "charity",
+        "Participants": 2
+     },
+    {
+        "id": 32,
+        "Activity": "Engage in a guided meditation session to reduce stress.",
+        "Type": "relaxation",
+        "Participants": 1
+     },
+     {
+        "id": 33,
+        "Activity": "Enroll in an online course on digital art.",
+        "Type": "education",
+        "Participants": 1
+     },
+     {
+        "id": 34,
+        "Activity": "Organize a virtual book club meeting to discuss your favorite books.",
+        "Type": "social",
+        "Participants": 5
+     },
+     {
+        "id": 35,
+        "Activity": "Build a miniature garden in your backyard.",
+        "Type": "diy",
+        "Participants": 1
+     },
+     {
+        "id": 36,
+        "Activity": "Donate to a local food bank to help those in need.",
+        "Type": "charity",
+        "Participants": 2
+     },
+    {
+        "id": 37,
+        "Activity": "Engage in a guided meditation session to reduce stress.",
+        "Type": "relaxation",
+        "Participants": 1
+  
+  
+   },
+     {
+        "id": 38,
+        "Activity": "Enroll in an online course on digital art.",
+        "Type": "education",
+        "Participants": 1
+     },
+     {
+        "id": 39,
+        "Activity": "Organize a virtual book club meeting to discuss your favorite books.",
+        "Type": "social",
+        "Participants": 5
+     },
+     {
+        "id": 40,
+        "Activity": "Build a miniature garden in your backyard.",
+        "Type": "diy",
+        "Participants": 1
+     },
+     {
+        "id": 41,
+        "Activity": "Donate to a local food bank to help those in need.",
+        "Type": "charity",
+        "Participants": 2
+     },
+    {
+        "id": 42,
+        "Activity": "Take a warm bubble bath with scented candles.",
+        "Type": "relaxation",
+        "Participants": 1
+    },
+    {
+        "id": 43,
+        "Activity": "Watch a documentary about space exploration.",
+        "Type": "education",
+        "Participants": 1
+    },
+    {
+        "id": 44,
+        "Activity": "Have a game night with friends playing board games.",
+        "Type": "social",
+        "Participants": 4
+    },
+    {
+        "id": 45,
+        "Activity": "Build a birdhouse for your backyard.",
+        "Type": "diy",
+        "Participants": 1
+    },
+    {
+        "id": 46,
+        "Activity": "Volunteer at a local soup kitchen to help the homeless.",
+        "Type": "charity",
+        "Participants": 5
+    },
+    {
+        "id": 47,
+        "Activity": "Meditate in a quiet space to clear your mind.",
+        "Type": "relaxation",
+        "Participants": 1
+    },
+    {
+        "id": 48,
+        "Activity": "Take an online course to learn a new language.",
+        "Type": "education",
+        "Participants": 1
+    },
+    {
+        "id": 49,
+        "Activity": "Host a dinner party for friends and family.",
+        "Type": "social",
+        "Participants": 8
+    },
+    {
+        "id": 50,
+        "Activity": "Paint a mural on a community wall.",
+        "Type": "diy",
+        "Participants": 2
+    },
+    {
+        "id": 51,
+        "Activity": "Donate blood at a local blood drive.",
+        "Type": "charity",
+        "Participants": 1
+    },
+    {
+        "id": 52,
+        "Activity": "Listen to classical music while enjoying a cup of tea.",
+        "Type": "relaxation",
+        "Participants": 1
+    },
+    {
+        "id": 53,
+        "Activity": "Attend a workshop on financial planning.",
+        "Type": "education",
+        "Participants": 1
+    },
+    {
+        "id": 54,
+        "Activity": "Go to a concert with friends.",
+        "Type": "social",
+        "Participants": 6
+    },
+    {
+        "id": 55,
+        "Activity": "Make homemade candles.",
+        "Type": "diy",
+        "Participants": 2
+    },
+    {
+        "id": 56,
+        "Activity": "Participate in a community clean-up event.",
+        "Type": "charity",
+        "Participants": 10
+    },
+    {
+        "id": 57,
+        "Activity": "Practice yoga in the park.",
+        "Type": "relaxation",
+        "Participants": 1
+    },
+    {
+        "id": 58,
+        "Activity": "Read scientific articles online.",
+        "Type": "education",
+        "Participants": 1
+    },
+    {
+        "id": 59,
+        "Activity": "Host a game night with neighbors.",
+        "Type": "social",
+        "Participants": 6
+    },
+    {
+        "id": 60,
+        "Activity": "Create a DIY terrarium.",
+        "Type": "diy",
+        "Participants": 1
+    },
+    {
+        "id": 61,
+        "Activity": "Participate in a charity run for a local cause.",
+        "Type": "charity",
+        "Participants": 1
+    },
+    {
+        "id": 62,
+        "Activity": "Take a nature walk in the forest.",
+        "Type": "relaxation",
+        "Participants": 1
+    },
+    {
+        "id": 63,
+        "Activity": "Attend a workshop on photography techniques.",
+        "Type": "education",
+        "Participants": 1
+    },
+    {
+        "id": 64,
+        "Activity": "Organize a movie night with friends.",
+        "Type": "social",
+        "Participants": 5
+    },
+    {
+        "id": 65,
+        "Activity": "Create homemade skincare products.",
+        "Type": "diy",
+        "Participants": 1
+    },
+    {
+        "id": 66,
+        "Activity": "Participate in a fundraising bake sale.",
+        "Type": "charity",
+        "Participants": 3
+    },
+    {
+        "id": 67,
+        "Activity": "Practice mindfulness meditation.",
+        "Type": "relaxation",
+        "Participants": 1
+    },
+    {
+        "id": 68,
+        "Activity": "Take an online course on coding.",
+        "Type": "education",
+        "Participants": 1
+    },
+    {
+        "id": 69,
+        "Activity": "Attend a music concert.",
+        "Type": "social",
+        "Participants": 4
+    },
+    {
+        "id": 70,
+        "Activity": "Build a bird feeder for your garden.",
+        "Type": "diy",
+        "Participants": 2
+    },
+    {
+        "id": 71,
+        "Activity": "Participate in a charity car wash.",
+        "Type": "charity",
+        "Participants": 5
+    },
+    {
+        "id": 72,
+        "Activity": "Have a picnic in the park.",
+        "Type": "relaxation",
+        "Participants": 4
+    },
+    {
+        "id": 73,
+        "Activity": "Attend a seminar on personal finance management.",
+        "Type": "education",
+        "Participants": 1
+    },
+    {
+        "id": 74,
+        "Activity": "Organize a karaoke night with friends.",
+        "Type": "social",
+        "Participants": 6
+    },
+    {
+        "id": 75,
+        "Activity": "Create handmade greeting cards.",
+        "Type": "diy",
+        "Participants": 2
+    },
+    {
+        "id": 76,
+        "Activity": "Volunteer at a local animal shelter.",
+        "Type": "charity",
+        "Participants": 3
+    },
+    {
+        "id": 77,
+        "Activity": "Practice deep breathing exercises.",
+        "Type": "relaxation",
+        "Participants": 1
+    },
+    {
+        "id": 78,
+        "Activity": "Join a book club.",
+        "Type": "education",
+        "Participants": 8
+    },
+    {
+        "id": 79,
+        "Activity": "Attend a community festival.",
+        "Type": "social",
+        "Participants": 10
+    },
+    {
+        "id": 80,
+        "Activity": "Upcycle old furniture.",
+        "Type": "diy",
+        "Participants": 1
+    },
+    {
+        "id": 81,
+        "Activity": "Participate in a charity auction.",
+        "Type": "charity",
+        "Participants": 1
+    },
+    {
+        "id": 82,
+        "Activity": "Take a scenic drive to explore new places.",
+        "Type": "relaxation",
+        "Participants": 1
+    },
+    {
+        "id": 83,
+        "Activity": "Attend a workshop on digital marketing.",
+        "Type": "education",
+        "Participants": 1
+    },
+    {
+        "id": 84,
+        "Activity": "Host a barbecue party with friends and family.",
+        "Type": "social",
+        "Participants": 12
+    },
+    {
+        "id": 85,
+        "Activity": "Try out new DIY home decor projects.",
+        "Type": "diy",
+        "Participants": 2
+    },
+    {
+        "id": 86,
+        "Activity": "Participate in a charity walk or run.",
+        "Type": "charity",
+        "Participants": 100
+    },
+    {
+        "id": 87,
+        "Activity": "Go for a hike in the mountains.",
+        "Type": "relaxation",
+        "Participants": 1
+    },
+    {
+        "id": 88,
+        "Activity": "Attend a workshop on graphic design.",
+        "Type": "education",
+        "Participants": 1
+    },
+    {
+        "id": 89,
+        "Activity": "Organize a game tournament with friends.",
+        "Type": "social",
+        "Participants": 16
+    },
+    {
+        "id": 90,
+        "Activity": "Create handmade jewelry.",
+        "Type": "diy",
+        "Participants": 3
+    },
+    {
+        "id": 91,
+        "Activity": "Volunteer at a local environmental cleanup event.",
+        "Type": "charity",
+        "Participants": 20
+    },
+    {
+        "id": 92,
+        "Activity": "Practice meditation and mindfulness in a peaceful garden.",
+        "Type": "relaxation",
+        "Participants": 1
+    },
+    {
+        "id": 93,
+        "Activity": "Attend a workshop on sustainable living practices.",
+        "Type": "education",
+        "Participants": 1
+    },
+    {
+        "id": 94,
+        "Activity": "Organize a potluck dinner with friends and neighbors.",
+        "Type": "social",
+        "Participants": 8
+    },
+    {
+        "id": 95,
+        "Activity": "Try out new DIY skincare recipes using natural ingredients.",
+        "Type": "diy",
+        "Participants": 2
+    },
+    {
+        "id": 96,
+        "Activity": "Participate in a fundraiser for a local animal shelter.",
+        "Type": "charity",
+        "Participants": 30
+    },
+    {
+        "id": 97,
+        "Activity": "Stargaze in a remote location away from city lights.",
+        "Type": "relaxation",
+        "Participants": 1
+    },
+    {
+        "id": 98,
+        "Activity": "Attend a seminar on entrepreneurship and startups.",
+        "Type": "education",
+        "Participants": 1
+    },
+    {
+        "id": 99,
+        "Activity": "Host a themed costume party with friends.",
+        "Type": "social",
+        "Participants": 10
+    },
+    {
+        "id": 100,
+        "Activity": "Create DIY natural home cleaning products.",
+        "Type": "diy",
+        "Participants": 2
+    },
+    {
+        "id": 101,
+        "Activity": "Participate in a charity bike ride to raise funds for medical research.",
+        "Type": "charity",
+        "Participants": 50
+    }
+  ]
+}
