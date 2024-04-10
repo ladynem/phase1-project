@@ -23,7 +23,7 @@ Draft
 Future releases will include:
 - refactored code to not repeat fetch requests
 - refactored click event to not include .innerHTML
-- "favorite" feature that allows users to save activities for future use. 
+- "favorite" feature that allows users to save activities for future use 
 
 ## CONTRIBUTING
 This project is not open to contributions.
