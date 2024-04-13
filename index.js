@@ -10,18 +10,18 @@ const handleClick = () => {
     fetch('http://localhost:3000/activities')
     .then((resp) => resp.json())
     .then((data) => {
-
+    
         const shuffleData = data.sort(() => Math.random() - 0.5)
         
         const randomData = shuffleData.slice(0, 5)
         
         randomData.forEach((obj) => {
-        const activityP = document.createElement('p')
-        activityP.className = 'activity-p'
-        activityP.innerHTML = 
-        `Activity: ${obj.Activity} <br>
-        Type: ${obj.Type} <br>
-        Participants: ${obj.Participants} <br>`    
+          const activityP = document.createElement('p')
+          activityP.className = 'activity-p'
+          activityP.innerHTML = 
+          `Activity: ${obj.Activity} <br>
+          Type: ${obj.Type} <br>
+          Participants: ${obj.Participants} <br>`    
         
         activityDiv.append(activityP)
     })     
